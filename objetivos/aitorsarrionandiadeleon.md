@@ -9,6 +9,6 @@
 
 ✓ Vernos las caras.
 
-✓ Explicar el hito 0.
+✓ Explicar el [hito 0](https://github.com/AitorSDL/proyecto-iv-1819).
 
 ✓ Entender la importancia de metodologías ágiles como SCRUM en el desarrollo de proyectos informáticos, incluyendo proyectos de infraestructura.
